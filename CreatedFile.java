@@ -1,5 +1,5 @@
 public class CreatedFile {
 	public static void main(String... args) {
-		System.out.println("Hello Github, from my computer");
+		System.out.println("Hello GitHub, from my computer");
 	}
 }
